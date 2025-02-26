@@ -1,6 +1,6 @@
 {
 	"$schema": "https://zed.dev/schema/themes/v0.1.0.json",
-	"name": "blaqat",
+	"name": "mariana-pro",
 	"author": "blaqat",
 	"themes": [
 		{
@@ -11,7 +11,6 @@
 					"#6699cc",
 					"#c594c5",
 					"#a3ce9e",
-					"null",
 					"#ee6a6f",
 					"#fab763",
 					"#5FB4B4",
@@ -20,7 +19,6 @@
 					"#6699cc",
 					"#c594c5",
 					"#a3ce9e",
-					"null",
 					"#fab763"
 				],
 				"border": "#1c2228",
@@ -335,7 +333,6 @@
 					"#6699cc",
 					"#AA71A4",
 					"#68A461",
-					"null",
 					"#ee6a6f",
 					"#fab763",
 					"#449999",
@@ -344,7 +341,6 @@
 					"#6699cc",
 					"#AA71A4",
 					"#68A461",
-					"null",
 					"#fab763"
 				],
 				"border": "#E3E4E4",
@@ -652,7 +648,6 @@
 					"#6699cc",
 					"#c594c5",
 					"#a3ce9e",
-					"null",
 					"#ee6a6f",
 					"#fab763",
 					"#5FB4B4",
@@ -661,7 +656,6 @@
 					"#6699cc",
 					"#c594c5",
 					"#a3ce9e",
-					"null",
 					"#fab763"
 				],
 				"border": "#2b2624",
